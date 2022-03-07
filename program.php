@@ -10,11 +10,12 @@
     <h2>SELECT SUBJECTS</h2>
     <form action="#" method="post">
         <select name="courses[]" multiple>
-        <option value="Red">Red</option>
-        <option value="Green">Green</option>
-        <option value="Blue">Blue</option>
-        <option value="Pink">Pink</option>
-        <option value="Yellow">Yellow</option>
+        <option value="maths">Maths</option>
+        <option value="history">History</option>
+        <option value="physics">Physics</option>
+        <option value="english">English</option>
+        <option value="hindi">HIndi</option>
+        <option value="Coding">Coding</option>
         </select>
         <input type="submit" name="submit" value="Submit" />
     </form>
